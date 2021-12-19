@@ -1,1 +1,1 @@
-# Chinese-Sequence-classification
+## A chinese Sequence Classification project
